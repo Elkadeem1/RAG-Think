@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+motor
+qdrant-client
+cohere
+pydantic
+python-dotenv
+pdfplumber
+bson
